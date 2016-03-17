@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'geocoder', '~> 1.3', '>= 1.3.1'
+gem 'gmaps4rails', '~> 2.1', '>= 2.1.2'
 
 group :development, :test do
   gem 'byebug'
